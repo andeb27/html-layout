@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  background-color: #dddddd;
+}
+.top {
+  width: 100%;
+  height: 20vh;
+  background-color: #444444;
+}
+.middle {
+  width: 80%;
+  height: 70vh;
+  background-color: white;
+  margin: auto;
+}
+.bottom {
+  height: 10vh;
+  width: 80%;
+  background-color: black;
+  margin:auto;
+}
