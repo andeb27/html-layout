@@ -16,9 +16,8 @@ body {
   width: 12%;
 }
 .words {
-  height: 25vh;
   width: 100%;
-  padding: 1vh 1em 1vh 1em;
+  padding: 1vh 2em 1vh 2em;
   font-size: 1v;
 }
 .blue {
