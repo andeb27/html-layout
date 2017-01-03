@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+.blue {
+  width:33.3%;
+  height: 100vh;
+  background-color: #6495ed;
+  float: left;
+}
+.green {
+  width:33.3%;
+  height: 100vh;
+  background-color: #00ced1;
+  float: left;
+}
+.yellow {
+  width:33.3%;
+  height: 80vh;
+  background-color: #98fb98;
+  float: left;
+}
+.red {
+  width:33.3%;
+  height: 20vh;
+  background-color: red;
+  float: left;
+  color: white;
+  text-align: center;
+  padding-top: 5vh;
+  font-size: 16pt;
+}
